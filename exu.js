@@ -1,1 +1,3 @@
-console.log('hello world')
+window.exu.init = function(){
+  console.log('hello world')
+}
